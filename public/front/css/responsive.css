@@ -1,0 +1,107 @@
+@media only screen and (max-width:1024px) {
+
+}
+
+@media only screen and (max-width:990px) {
+    .header .the-menu , .after img
+    {
+        display: none;
+    }
+    .hidden-xx
+    {
+        display: block;
+    }
+}
+
+@media only screen and (max-width:990px) {
+    .header .main-slider
+    {
+        margin-top: 10px;
+    }
+    .header .main-slider .content-slider {
+        padding-top: 10px;
+        text-align: center;
+    }
+    .header .main-slider .pic-slider img
+    {
+        margin: 0 auto;
+        display: block;
+        width: 250px;
+        float: none;
+        margin-top: 50px;
+    }
+    .our-products .one .pic , .all-pro .one .pic , .all-details .similar-pro .pic
+    {
+        width: 100%;
+        border-radius: 10px;
+        height: auto;
+    }
+    .our-products .one .pic img , .all-pro .one .pic img , .all-details .similar-pro .pic img
+    {
+        width: 90px;
+    }
+    .about-us-page iframe
+    {
+        height: 300px;
+    }
+    .about-us-page h2 , .about-us-page h3
+    {
+        font-size: 20px;
+    }
+}
+
+
+@media only screen and (max-width:600px) {
+    .header .all-menu .logo img
+    {
+        width: 200px;
+    }
+    .hidden-xx
+    {
+        margin-top: 22px;
+    }
+
+    .tube .paper
+    {
+     right: 0px;
+     width: 150px;
+    left: 0px;
+    margin: 0 auto;
+    }
+    .contact-us .content h2
+    {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .contact-us .content p
+    {
+        font-size: 14px;
+    }
+    .footer .content h3
+    {
+        font-size: 16px;
+    }
+    .footer .content .menu li a
+    {
+        font-size: 14px;
+    }
+    .chat
+    {
+        display: none;
+    }
+    .all-pro .the-tabs ul li
+    {
+        width: 100px;
+        margin-bottom: 20px;
+    }
+    .all-pro .the-tabs ul li a
+    {
+        font-size: 10px;
+    }
+    .all-details .similar-pro .details h4
+    {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+}
